@@ -8,6 +8,8 @@ This project integrates the [PEV2](https://github.com/dalibo/PEV2) PostgreSQL Ex
 - **AI Query Advisor:** Uses Ollama to analyze table schemas and queries, providing index recommendations and optimization strategies.
 - **Vaadin UI:** A modern Java-based web interface.
 
+![sample](sample.png)
+
 ## Prerequisites
 
 - Java 17+
