@@ -32,8 +32,7 @@ This project integrates the [PEV2](https://github.com/dalibo/PEV2) PostgreSQL Ex
 2.  **Run Ollama:**
     Ensure Ollama is running and has a model pulled (e.g., `llama2` or `mistral`).
     ```bash
-    ollama serve
-    ollama pull gpt-oss:20b
+    ollama run gpt-oss:20b
     ```
     *Note: You may need to configure the model name in `application.properties` if not using the default.*
 
