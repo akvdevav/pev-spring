@@ -51,6 +51,6 @@ You can configure the Ollama base URL and model in `src/main/resources/applicati
 
 ```properties
 spring.ai.ollama.base-url=http://localhost:11434
-spring.ai.ollama.chat.model=gpt-oss:20bs
+spring.ai.ollama.chat.model=gpt-oss:20b
 ```
 
