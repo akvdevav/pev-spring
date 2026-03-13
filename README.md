@@ -1,4 +1,4 @@
-# PEV2 Spring Boot Backend
+# PEV2 Spring Boot featuring Spring AI
 
 This project integrates the [PEV2](https://github.com/dalibo/PEV2) PostgreSQL Explain Visualizer with a Spring Boot backend, featuring Spring AI (Ollama:gpt-oss:20b) for intelligent query analysis.
 
